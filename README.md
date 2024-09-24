@@ -22,7 +22,7 @@ i_2 & \text{—} & 0.5612 \\
 \end{array}
 \]
 
-The challenge is to optimize the transfer using impulsive burns by minimizing the required **delta-v** and transit time. The project explores not only the standard Hohmann transfer but also **six additional transfer methods** to improve efficiency.
+The challenge is to optimize the transfer using impulsive burns by minimizing the required **delta-v** and transit time. The project explores not only the standard Hohmann transfer with periapsis and plane chaneg maneuvers, but also **six additional transfer methods** to improve efficiency.
 
 ---
 
