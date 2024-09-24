@@ -5,7 +5,7 @@ _How to efficiently transfer a satellite between two orbits?_
 ## Objective
 The goal is to transfer a satellite from an initial orbit to a final orbit, identified by the following orbital parameters:
 <div align="center">
-  <img src="Images/tables.png" width="600"/>
+  <img src="Images/tables.png" width="250"/>
 </div>
 
 The challenge is to optimize the transfer using impulsive burns by minimizing the required **delta-v** and transit time. The project explores the standard Hohmann transfer with periapsis and plane change maneuvers and **six additional transfer methods** to improve efficiency.
