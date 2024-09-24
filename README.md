@@ -30,9 +30,9 @@ The challenge is to optimize the transfer using impulsive burns by minimizing th
 Below are some plots showing the initial orbital conditions:
 
 <div align="center">
-  <img src="path_to_image1" width="250"/>
-  <img src="path_to_image2" width="250"/>
-  <img src="path_to_image3" width="250"/>
+  <img src="Images/orbits.png" width="250"/>
+  <img src="Images/initialPerifocal.png" width="250"/>
+  <img src="Images/finalPerifocal.png" width="250"/>
 </div>
 
 ---
@@ -41,9 +41,9 @@ Below are some plots showing the initial orbital conditions:
 Here are examples of different transfer methods, including the standard and additional proposed techniques:
 
 <div align="center">
-  <img src="path_to_image4" width="250"/>
-  <img src="path_to_image5" width="250"/>
-  <img src="path_to_image6" width="250"/>
+  <img src="Images/standard.png" width="250"/>
+  <img src="Images/alternative2.png" width="250"/>
+  <img src="Images/alternative6.png" width="250"/>
 </div>
 
 ---
